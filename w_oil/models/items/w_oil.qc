@@ -1,6 +1,6 @@
 $modelname w_oil.mdl
 $cdmaterials "models"
-$scale 3.5
+$scale 1
 $surfaceprop "glassbottle"
 $staticprop
 $body studio "w_oil.smd"
